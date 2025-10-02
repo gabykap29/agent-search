@@ -240,13 +240,11 @@ agent_sql("Busca mujeres nacidas en 1985 que vivan en Buenos Aires")
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
 
 ## 👥 Autores
 
-- **Gabriel Kapche** - *Desarrollador Principal* - [@gabykap29](https://github.com/gabykap29)
+- **Gabriel Acosta** - *Desarrollador Principal* - [@gabykap29](https://github.com/gabykap29)
 
 ## 🙏 Reconocimientos
 
@@ -256,13 +254,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - [Ollama](https://ollama.ai/) - Modelos locales
 
 ---
-
-⭐ **¡Dale una estrella si este proyecto te resulta útil!** ⭐
-
-## 📞 Soporte
-
-¿Tienes preguntas o necesitas ayuda? 
-
-- 🐛 [Reportar un bug](https://github.com/gabykap29/agent-search/issues)
-- 💡 [Solicitar una característica](https://github.com/gabykap29/agent-search/issues)
-- 📧 [Contactar al desarrollador](mailto:gabriel.kapche@ejemplo.com)
